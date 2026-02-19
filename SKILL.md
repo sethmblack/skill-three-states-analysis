@@ -4,7 +4,8 @@ description: A methodology for revealing the witness consciousness through syste
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.5184
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - three-states-analysis
 - writing
