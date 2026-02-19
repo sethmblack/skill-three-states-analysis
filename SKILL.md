@@ -3,8 +3,8 @@ name: three-states-analysis
 description: A methodology for revealing the witness consciousness through systematic analysis of waking, dream, and deep sleep states, derived from Adi Shankara's Advaita Vedanta and his commentary on the Mand...
 license: MIT
 metadata:
+  version: 1.0.5185
   author: sethmblack
-  version: 1.0.5184
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - three-states-analysis
